@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** This C programme prints exactly 
+/*
+* This C programme prints exactly 
 * "programming is like building a multilingual puzzle
 * it uses the puts command and not the printf
 * returns o
