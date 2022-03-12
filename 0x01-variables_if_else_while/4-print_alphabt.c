@@ -11,7 +11,7 @@ for (r = 'a'; r <= 'z'; r++)
 {
 if (r != 'e' && r != 'q')
 {
-putchar(c);
+putchar(r);
 }
 }
 putchar('\n');
