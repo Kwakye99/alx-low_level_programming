@@ -18,7 +18,7 @@ putchar(p);
 
 if (g != '8' || (g == '8' && p != '9'))
 {
-putchar('.');
+putchar(',');
 putchar(' ');
 }
 }
