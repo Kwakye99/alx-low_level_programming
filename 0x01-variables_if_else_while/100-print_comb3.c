@@ -14,7 +14,7 @@ for (p = '0'; p <= '9'; p++)
 if (g < p)
 {
 putchar(g);
-putchar(i);
+putchar(p);
 
 if (g != '8' || (g == '8' && p != '9'))
 {
