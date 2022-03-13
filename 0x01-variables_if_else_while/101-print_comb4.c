@@ -17,7 +17,7 @@ if (a < b && b < c)
 {
 putchar(a);
 putchar(b);
-putcahr(c);
+putchar(c);
 if (a != '7')
 {
 putchar(',');
