@@ -6,9 +6,12 @@
 void print_most_numbers(void)
 {
 int c;
-for (c = o; c < 10; c++, c != 2, 4)
+for (c = o; c < 10; c++)
+{
+if (i != 2 && i != 4)
 {
 _putchar(c + '0');
+}
 }
 _putchar('\n');
 }
