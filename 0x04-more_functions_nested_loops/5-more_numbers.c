@@ -7,7 +7,7 @@ void more_numbers(void)
 int c, k;
 for (c = 0; c < 10; c++)
 {
-for (k=0; k < 15; k++)
+for (k= 0; k < 15; k++)
 {
 if (k >= 10)
 _putchar(k / 10 + '0');
