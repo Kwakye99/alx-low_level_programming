@@ -7,9 +7,10 @@ void print_diagonal(int n)
 {
 if (n <= 0)
 {
-_printchar('\n');
+_putchar('\n');
 }
 else
+{
 int k, m;
 for (k = 0; k < n; k++)
 {
