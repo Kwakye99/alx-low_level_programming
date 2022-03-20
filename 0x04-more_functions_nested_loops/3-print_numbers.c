@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio.h>
 /**
 * print_numbers - my function name
 * void: inputs not specified
@@ -8,7 +7,7 @@
 void print_numbers(void)
 {
 int me;
-for (me = 0; me <= 9; me++)
+for (me = 0; me < 10; me++)
 {
 _putchar(me);
 }
