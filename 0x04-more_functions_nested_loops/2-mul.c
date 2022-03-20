@@ -6,7 +6,7 @@
  * @b: int to be multiplied to a
  * Return: the result of the operation
  */
-int mu(int a, int b)
+int mul(int a, int b)
 {
 int h; 
 h = a * b;
