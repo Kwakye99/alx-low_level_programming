@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 * more_numbers - prints 10x numbers from 0 to 14
+* Return: Always void
 */
 void more_numbers(void)
 {
